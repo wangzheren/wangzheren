@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @wangzheren
-- 👀 I’m interested in leetcode solving.
-- 💞️ I’m looking to collaborate on recommendation system design projects
+- 👋 Hi, I’m wangzheren
 - 📫 How to reach me: wangzheren298@gmail.com
 
 <!---
